@@ -7,3 +7,7 @@ brew cask install virtualbox
 brew cask install sublime-text
 brew cask install spectacle
 brew cask install vagrant
+brew install bash-completion
+brew cask install slack
+brew install pwgen
+brew cask install evernote
