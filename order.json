@@ -1,0 +1,23 @@
+{
+  "normal": {
+    "install": [
+      "rbenv",
+      "ruby-build",
+      "rbenv-default-gems",
+      "bash-completion",
+      "pwgen",
+      "wget"
+    ]
+  },
+  "cask": {
+    "install": [
+      "iterm2",
+      "virtualbox",
+      "sublime-text",
+      "spectacle",
+      "vagrant",
+      "slack",
+      "evernote"
+    ]
+  }
+}
