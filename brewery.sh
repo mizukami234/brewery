@@ -1,6 +1,6 @@
 ORDER=order.json
 
-which jq
+which jq &> /dev/null
 if [ $? -eq 1 ]; then
     echo "-- brewery requires jq --"
     brew install jq
