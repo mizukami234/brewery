@@ -6,7 +6,8 @@
       "rbenv-default-gems",
       "bash-completion",
       "pwgen",
-      "wget"
+      "wget",
+      "nvm"
     ]
   },
   "cask": {
