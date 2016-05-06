@@ -1,6 +1,7 @@
 {
   "normal": {
     "install": [
+      "git",
       "rbenv",
       "ruby-build",
       "rbenv-default-gems",
