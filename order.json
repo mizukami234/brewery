@@ -20,7 +20,8 @@
       "vagrant",
       "slack",
       "evernote",
-      "sequel-pro"
+      "sequel-pro",
+      "ccmenu"
     ]
   }
 }
